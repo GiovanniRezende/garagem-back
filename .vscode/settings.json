@@ -1,0 +1,28 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}\\__pypackages__\\3.10\\lib"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}\\__pypackages__\\3.10\\lib"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#590a21",
+    "activityBar.background": "#590a21",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#2b730d",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#590a21",
+    "statusBar.background": "#2b0510",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#590a21",
+    "statusBarItem.remoteBackground": "#2b0510",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#2b0510",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#2b051099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#2B0510"
+}
