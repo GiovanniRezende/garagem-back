@@ -1,4 +1,4 @@
-import magic
+# import magic
 
 CONTENT_TYPE_ICO = "image/x-icon"
 CONTENT_TYPE_JPG = "image/jpeg"
