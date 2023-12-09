@@ -7,7 +7,7 @@ authors = [
     {name = "GuilhermeHalter", email = "guisam.halter@gmail.com"},
 ]
 dependencies = [
-    "django>=4.2.7",
+    "django>=5.0",
     "djangorestframework>=3.14.0",
     "setuptools>=68.1.2",
     "python-magic>=0.4.27",
@@ -27,3 +27,6 @@ dependencies = [
 requires-python = ">=3.10"
 license = {text = "MIT"}
 
+[[tool.pdm.autoexport]]
+filename = "requirements.txt"
+without-hashes = "true"
